@@ -52,9 +52,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://www.everyayah.com/data/Abu%20Bakr%20Ash-Shaatree_128kbps/001001.mp3?theme=dark&scan=true&spin=false&rainbow=false" alt="Widget with the current Spotify song"  />
-</div>
-
-###
