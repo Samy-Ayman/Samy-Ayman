@@ -1,4 +1,4 @@
-## Hi there 👋 iam Samy ayman 
+## Hi there 👋 i'm Samy ayman 
 
 <!--
 **Samy-Ayman/Samy-Ayman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
