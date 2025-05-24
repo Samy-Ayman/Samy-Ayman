@@ -26,10 +26,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Samy-Ayman/Samy-Ayman/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h1 align="left">.Net Backend Devolper</h1>
 
 ###
@@ -41,5 +37,13 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/Samy-Ayman/count.svg?"  />
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Samy-Ayman/Samy-Ayman/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Samy-Ayman/Samy-Ayman/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Samy-Ayman/Samy-Ayman/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
